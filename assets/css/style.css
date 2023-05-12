@@ -6,3 +6,7 @@ html {
 .divider_one {
     border-top: 3px dotted #BC6C25;
 }
+
+.title {
+    text-align: center;
+}
