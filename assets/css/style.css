@@ -1,1 +1,7 @@
+html {
+    background-color: #FEFAE0;
+}
 
+.divider_one {
+    border-top: 3px dotted #BC6C25;
+}
