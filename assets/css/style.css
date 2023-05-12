@@ -1,6 +1,7 @@
 body {
     background-color: #FEFAE0;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5% solid #FEFAE0;
 }
 
 .divider_one {
