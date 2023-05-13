@@ -1,7 +1,11 @@
 html {
     margin: 100px;
     padding: 0;
-    text-align: justify;
+    text-align: center;
+    background-image: url('the-merchant/assets/images/djinn_lamp_icon.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 body { 
 	font: 75% georgia, sans-serif;
@@ -40,8 +44,10 @@ abbr {
 header {
     padding-top: 20px;
     height: 87px;
-    text-align: center;
 }
 footer {
     text-align: center;
+}
+footer a:link, footer a:visited {
+    margin-right: 20px;
 }
