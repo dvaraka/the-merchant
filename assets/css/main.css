@@ -1,91 +1,36 @@
-body {
-    background-color: #FEFAE0;
-    font-family: Garamond;
-    margin-right: 100px;
-    margin-left: 100px;
-    text-align: center;
-}
-
-.divider_one {
-    border-top: 3px dotted #283618;
-}
-
-.title {
-    text-align: center;
-    font-family: Georgia;
-    color: #606C38;
-}
-
-.grid-container {
-    display: inline-grid;
-    column-gap: 50px;
-    gap: 50px;
-}
-
-.math_equation {
-    font-style: italic;
-    font-family: 'Times New Roman';
-}
-
-a {
-    color: #BC6C25;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.row {
-    display: flex;
-}
-
-.column {
-    flex: 25%
-}
-
-.subject-button:root {
-    --text: #2b3044;
-    --line: #bbc1e1;
-    --line-active: #275efe;
-}
-.subject-button {
-    font-size: 18px;
+html {
     margin: 0;
-    color: var(--text);
+    padding: 0;
 }
-.subject-button a {
-    display: inline-block;
-    position: relative;
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #6c584c; 
+	background: #f0ead2; 
+	margin: 0; 
+	padding: 0;
+}
+p {
+    margin-top: 0;
+    text-align: justify;
+}
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #6c584c;
+}
+a:link {
+    font-weight: bold;
     text-decoration: none;
-    color: inherit;
-    margin: 0 var(--spacing, 0px);
-    transition: margin 0.25s;
+    color: #414833;
 }
-.subject-button a svg {
-    width: 76px;
-    height: 40px;
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transform: translate(-50%, 7px) translateZ(0);
-    fill: none;
-    stroke: var(--stroke, var(--line));
-    stroke-linecap: round;
-    stroke-width: 2px;
-    stroke-dasharray: var(--offset, 69px) 278px;
-    stroke-dashoffset: 361px;
-    transition: stroke 0.25s ease var(--stroke-delay, 0s), stroke-dasharray 0.35s;
+a:visited {
+    font-weight: bold;
+    text-decoration: none;
+    color: #656d4a;
 }
-.subject-button a:hover {
-    --spacing: 4px;
-    --stroke: var(--line-active);
-    --stroke-delay: 0.1s;
-    --offset: 180px;
-}
-
-@media screen and (max-width: 600px) {
-    .column {
-        width: 50%;
-    }
-    body {
-        margin: 20px;
-    }
+a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: #333d29;
 }
