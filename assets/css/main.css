@@ -2,6 +2,7 @@ body {
     background-color: #FEFAE0;
     font-family: Garamond;
     border: 5% solid #FEFAE0;
+    text-align: center justify;
 }
 
 .divider_one {
