@@ -7,7 +7,7 @@
   <p>Welcome, weary travellers from afar, to my humble abode of treasures and exotic eye-jewels galore. <br> Be at your most pleasant ease and freedom of time as eternal as the whirling Sun to peruse the extravagant items we have on sale and at the cheapest of prices, just for you, before you embark once more on your journey.</p>
   <hr class="divider_one">
   <h2 class="subtitles">Notes</h2>
-  <p><b><a href="https://harzavad/github.io/the-merchant/notes/year-9.html">Year 9</a></b></p>
+  <p><b><a href="https://harzavad.github.io/the-merchant/notes/year-9.html">Year 9</a></b></p>
   <hr class="divider_one">
   <p>Oh, leaving so soon? Well then, goodbye my fellows, and may the future of yours be ripe and plentiful, so long as you find yourself able to return so I may replenish your supplies!</p>
   <hr class="divider_one">
