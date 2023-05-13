@@ -2,13 +2,13 @@ html {
     margin: 100px;
     padding: 0;
     text-align: center;
-    background: #f0ead2; 
+    background: #EADEB8; 
 }
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #6c584c; 
-	background: #f0ead2; 
+	color: #8E3200; 
+	background: #EADEB8; 
 	margin: 0; 
 	padding: 0;
 }
@@ -24,16 +24,16 @@ h3 {
 a:link {
     font-weight: bold;
     text-decoration: none;
-    color: #414833;
+    color: #C56824;
 }
 a:visited {
     font-weight: bold;
     text-decoration: none;
-    color: #656d4a;
+    color: #A09F57;
 }
 a:hover, a:focus, a:active {
     text-decoration: underline;
-    color: #333d29;
+    color: #C56824;
 }
 abbr {
     border-bottom: none;
