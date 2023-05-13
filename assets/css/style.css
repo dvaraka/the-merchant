@@ -1,6 +1,6 @@
 body {
     background-color: #FEFAE0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Garamond;
     border: 5% solid #FEFAE0;
 }
 
@@ -10,4 +10,26 @@ body {
 
 .title {
     text-align: center;
+    font-family: Georgia;
+    color: #606C38;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        border: 4% solid #FEFAE0;
+    }
+    .column {
+        width: 100%
+    }
 }
