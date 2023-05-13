@@ -42,3 +42,27 @@ a:hover {
     text-decoration: none;
     background: #DDA15E;
 }
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+.subject-button {
+    position: relative;
+    margin: auto;
+    width: 120px;
+    text-align: center;
+    color: #283618;
+    font-size: 20px;
+    border: 2px solid #f6a9bd;
+}
