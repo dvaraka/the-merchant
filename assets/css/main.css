@@ -69,7 +69,7 @@ a:hover {
     text-decoration: none;
 }
 
-.subject-button::before, .subject-button::after {
+.subject-button::before:hover, .subject-button::after:hover {
     content: "";
     position: absolute;
     top: -10px;
@@ -123,7 +123,7 @@ a:hover {
 
 @media screen and (max-width: 600px) {
     .column {
-        width: 100%;
+        width: 50%;
     }
     body {
         margin: 5px;
