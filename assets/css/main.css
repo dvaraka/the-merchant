@@ -56,13 +56,17 @@ a:hover {
     margin: auto;
     width: 120px;
     text-align: center;
-    color: #283618;
+    color: #606C38;
     font-size: 20px;
     border: 2px solid #dde5b6;
     border-radius: 10px;
     background: #dde5b6;
     transition: all 0.3s;
     cursor: pointer;
+}
+
+.subject-button a {
+    text-decoration: none;
 }
 
 .subject-button::before, .subject-button::after {
@@ -72,7 +76,7 @@ a:hover {
     left: -10px;
     right: -10px;
     bottom: -10px;
-    border: 2px solid #fff;
+    border: 2px solid #606C38;
     transition: all 0.5s;
     -webkit-animation: clippath 3s infinite linear;
             animation: clippath 3s infinite linear;
