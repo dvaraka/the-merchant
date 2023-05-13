@@ -27,6 +27,6 @@
     </ul>
     <p>We made these two new equations by adding or subtracting one equation from the other. We can also take multiples of equations before combining them. As such, these equations must also hold true.</p>
     <ul>
-        <li></li>
+        <li>a</li>
     </ul>
 </body>
