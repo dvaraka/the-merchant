@@ -1,6 +1,7 @@
 html {
-    margin: 0;
+    margin: 100px;
     padding: 0;
+    text-align: justify;
 }
 body { 
 	font: 75% georgia, sans-serif;
@@ -12,7 +13,6 @@ body {
 }
 p {
     margin-top: 0;
-    text-align: justify;
 }
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
@@ -33,4 +33,14 @@ a:visited {
 a:hover, a:focus, a:active {
     text-decoration: underline;
     color: #333d29;
+}
+abbr {
+    border-bottom: none;
+}
+header {
+    padding-top: 20px;
+    height: 87px;
+}
+footer {
+    text-align: center;
 }
