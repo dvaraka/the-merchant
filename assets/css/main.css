@@ -2,10 +2,6 @@ html {
     margin: 100px;
     padding: 0;
     text-align: center;
-    background-image: url('assets/images/djinn_lamp_icon.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
     background: #f0ead2; 
 }
 body { 
