@@ -40,6 +40,7 @@ abbr {
 header {
     padding-top: 20px;
     height: 87px;
+    text-align: center;
 }
 footer {
     text-align: center;
