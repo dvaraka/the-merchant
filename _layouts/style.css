@@ -1,0 +1,43 @@
+body {
+    background-color: #FEFAE0;
+    font-family: Garamond;
+    border: 5% solid #FEFAE0;
+}
+
+.divider_one {
+    border-top: 3px dotted #283618;
+}
+
+.title {
+    text-align: center;
+    font-family: Georgia;
+    color: #606C38;
+}
+
+.grid-container {
+    display: inline-grid;
+    column-gap: 50px;
+    gap: 50px;
+}
+
+.math_equation {
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+a {
+    outline: none;
+}
+
+a:link {
+    color: #BC6C25;
+}
+
+a:visited {
+    color: #BC6C25;
+}
+
+a:hover {
+    text-decoration: none;
+    background: #DDA15E;
+}
