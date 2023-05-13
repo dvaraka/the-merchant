@@ -1,7 +1,7 @@
 body {
     background-color: #FEFAE0;
     font-family: Garamond;
-    border: 5% solid #FEFAE0;
+    margin: 20px;
     text-align: center justify;
 }
 
@@ -51,12 +51,6 @@ a:hover {
     flex: 50%
 }
 
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-    }
-}
-
 .subject-button {
     position: relative;
     margin: auto;
@@ -65,4 +59,13 @@ a:hover {
     color: #283618;
     font-size: 20px;
     border: 2px solid #f6a9bd;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+    body {
+        margin: 5px;
+    }
 }
