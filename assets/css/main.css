@@ -1,6 +1,6 @@
 html {
-	margin-right: 100px;
-	margin-left: 100px;
+	margin-right: 200px;
+	margin-left: 200px;
 	padding: 0;
 	text-align: justify;
 	background: #EADEB8; 
@@ -66,4 +66,11 @@ footer a:link, footer a:visited {
 h1 {
 	font-family: 'Times';
 	text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+	html {
+		margin-right: 50px;
+		margin-left: 50px;
+	}
 }
