@@ -4,6 +4,7 @@
 <body>
   <p><i>[An influenced excerpt of a typical roaming merchant, taken from the works of <abbr>Donal Tony</abbr>, abridged by the scribe <abbr>Ethan Trinh</abbr>]</i></p>
   <p class="intro">Welcome, weary travellers from afar, to my humble abode of treasures and exotic eye-jewels galore. <br> Be at your most pleasant ease and freedom of time as eternal as the whirling Sun to peruse the extravagant items we have on sale and at the cheapest of prices, just for you, before you embark once more on your journey.</p>
+  <p>My stall is currently within an establishment known as <a href="">The Town</a>, a luxurious oasis, which I like very much.</p>
   <hr class="divider_one">
   <h2 class="subtitles">Notes</h2>
   <h3 class="intro"><b><a href="https://harzavad.github.io/the-merchant/notes/year-9.html">Year 9</a></b></h3>
