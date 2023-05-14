@@ -41,7 +41,7 @@
     <def><abbr>Passive Transport</abbr> Type of transport which doesn't require energy. It is the movement of a solute from a region of high concentration to one of low concentration. Examples include Diffusion and Osmosis.</def>
     <br>
     <h2><em>Other Information</em></h2>
-    <p>What factors affect the rate of diffusion?</p>
+    <h3>What factors affect the rate of diffusion?</h3>
     <p><abbr>Concentration Gradient. </abbr>There is a greater difference in concentration on either side of membrane, faster movement across will occur. The higher the concentration - the more random collisions against the membrane.</p>
     <p><abbr>Mass of Molecules. </abbr>Heavier molecules - slower movement.</p>
     <p><abbr>Temperature. </abbr>Increase in temperature > Increase in energy > Increased rate of diffusion.</p>
