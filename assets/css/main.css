@@ -47,7 +47,7 @@ a:hover, a:focus, a:active {
 
 abbr {
 	border-bottom: none;
-	text-decoration: #CFB784 wavy underline;
+	text-decoration: #CFB784 dotted underline;
 }
 
 header {
