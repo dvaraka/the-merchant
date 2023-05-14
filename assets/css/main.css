@@ -24,6 +24,7 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #6c584c;
+	text-align: center;
 }
 
 a:link {
@@ -46,7 +47,7 @@ a:hover, a:focus, a:active {
 
 abbr {
 	border-bottom: none;
-	text-decoration: overline;
+	text-decoration: overline underline #CFB784;
 }
 
 header {
