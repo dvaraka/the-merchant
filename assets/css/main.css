@@ -52,6 +52,7 @@ abbr {
 header {
 	padding-top: 20px;
 	height: 87px;
+	text-align: center;
 }
 
 footer {
@@ -64,4 +65,5 @@ footer a:link, footer a:visited {
 
 h1 {
 	font-family: 'Times';
+	text-align: center;
 }
