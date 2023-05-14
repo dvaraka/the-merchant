@@ -56,6 +56,10 @@ a:hover, a:focus, a:active {
 abbr {
 	border-bottom: none;
 	text-decoration: #CFB784 dotted underline;
+	color: #8E3200;
+}
+
+def {
 	color: #A64B2A;
 }
 
