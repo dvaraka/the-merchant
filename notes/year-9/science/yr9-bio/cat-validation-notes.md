@@ -32,7 +32,7 @@
     <br>
     <def><abbr>Phagocytosis</abbr> Phagocytosis occurs when dissolved materials enter a cell and the plasma membrane engulfs solid material, forming a phagocytic vesicle.</def>
     <br>
-    <def><abbr>Pinocytosis</abbr> Pinocytosis is when a plasma membrane folds inwards to form a channel allowing dissolved substances to enter a cell. When the channel is closed, liquid is encircled within a pinocytic vesicle.</abbr>
+    <def><abbr>Pinocytosis</abbr> Pinocytosis is when a plasma membrane folds inwards to form a channel allowing dissolved substances to enter a cell. When the channel is closed, liquid is encircled within a pinocytic vesicle.</def>
     <br>
     <def><abbr>Exocytosis</abbr> Exocytosis describes the process of a vesicle fusing with the plasma membrane and releasing contents on outside of a cell. It occurs when a cell produces substance for export (protein) or when a cell is getting rid of waste products or toxins. Newly made membrane proteins and membrane lipids are moved on top the plasma membrane by exocytosis.</def>
     <br>
