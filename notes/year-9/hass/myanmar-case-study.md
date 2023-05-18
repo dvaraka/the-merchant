@@ -45,4 +45,5 @@
             </ul>
         </li>
         <li>Democracy was weak and unstable</li>
+    </ul>
 </body>
