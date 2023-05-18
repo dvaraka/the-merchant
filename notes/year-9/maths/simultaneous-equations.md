@@ -3,7 +3,7 @@
 </head>
 <body>
     <h1 class="title">Mathematics</h1>
-    <h2>Solving Simultaneous Equations<h2>
+    <h2>Solving Simultaneous Equations</h2>
     <p><i><b>ACMNA237</b> — Solve linear simultaneous equations using algebraic and graphical techniques including digital technology.</i></p>
     <h3>The Substitution Method</h3>
     <p>When solving equations simultaneously, we are looking for some values for our variables which make both equations true. This means that in two equations in terms of <span class="math_equation">x</span> and <span class="math_equation">y</span>, each variable can be considered to be some fixed value for both equations- even if we don't know what that value is yet.</p>
