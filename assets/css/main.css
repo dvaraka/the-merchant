@@ -28,7 +28,7 @@ h2 {
 }
 
 h3 { 
-	font: bold italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #6c584c;
@@ -36,7 +36,7 @@ h3 {
 }
 
 h4 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.2em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #6c584c;
