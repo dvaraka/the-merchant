@@ -35,6 +35,14 @@ h3 {
 	text-align: center;
 }
 
+h4 { 
+	font: normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #6c584c;
+	text-align: center;
+}
+
 a:link {
 	font-weight: bold;
 	text-decoration: none;
