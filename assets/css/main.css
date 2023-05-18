@@ -83,6 +83,10 @@ h1 {
 	text-align: center;
 }
 
+.callout {
+	text-align: center;
+}
+
 @media screen and (max-width: 600px) {
 	html {
 		margin-right: 50px;
