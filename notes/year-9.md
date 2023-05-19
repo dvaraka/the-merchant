@@ -5,5 +5,5 @@
 # Year 9
 ### [Mathematics](/the-merchant/notes/year9/mathematics/mathematics.html)
 ### [Science]()
-### [HASS]()
+### [HASS](/the-merchant/notes/year9/hass/hass.html)
 ### [English]()
