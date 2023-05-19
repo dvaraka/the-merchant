@@ -32,7 +32,7 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #6c584c;
-	text-align: justify;
+	text-align: center;
 }
 
 h4 { 
@@ -106,8 +106,4 @@ img {
 		margin-right: 7.5%;
 		margin-left: 7.5%;
 	}
-}
-
-h3 a {
-	text-align: center;
 }
