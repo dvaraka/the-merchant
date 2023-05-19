@@ -7,3 +7,4 @@
 ### [Science]()
 ### [HASS](/the-merchant/notes/year9/hass/hass.html)
 ### [English]()
+### [French](/the-merchant/notes/year9/french/french.html)
