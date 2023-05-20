@@ -6,5 +6,5 @@
 ### [Mathematics](/the-merchant/notes/year9/mathematics/mathematics.html)
 ### [Science]()
 ### [HASS](/the-merchant/notes/year9/hass/hass.html)
-### [English]()
+### [English](/the-merchant/notes/year9/english/english.html)
 ### [French](/the-merchant/notes/year9/french/french.html)
