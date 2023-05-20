@@ -10,11 +10,11 @@
 
 ### I like it.  
 
-### I was introduced to the town through Shan-Mei.  
+### I was introduced to the town through [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/).  
 
 ### She's really nice and helped me set up my stall.  
 
-### I'm quite new to the town and don't know many people, but I hear from Shan-Mei that they are all really nice.  
+### I'm quite new to the town and don't know many people, but I hear from [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/) that they are all really nice.  
 
 ### They all live within the town, and have very interesting houses.  
 
