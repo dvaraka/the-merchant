@@ -1,5 +1,5 @@
 <head>
-  <title>Ramblings</title>
+  <title>Travails of a Merchant</title>
 </head>
-## Ramblings
-Put information in your ramblings here
+## Travails of a Merchant
+[Proverbs and Sayings from Distant Lands](/the-merchant/ramblings/quotes.html)
