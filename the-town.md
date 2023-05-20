@@ -19,4 +19,4 @@
 ### They all live within the town, and have very interesting houses.  
 
 #### *My Stall!*  
-![My Stall](/assets/images/Screenshot 2023-05-14 163031.png)
+![My Stall](/the-merchant/assets/images/Screenshot 2023-05-14 163031.png)
