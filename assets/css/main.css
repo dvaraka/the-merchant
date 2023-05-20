@@ -10,7 +10,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #4A2115; 
-	background: #EADEB8; 
+	background: #FADE8F; 
 	margin: 0; 
 	padding: 0;
 }
@@ -58,7 +58,7 @@ a:visited {
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	color: #499F70;
-	background: #FBDA93;
+	background: #EADEB8;
 }
 
 abbr {
