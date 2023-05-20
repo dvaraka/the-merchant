@@ -3,13 +3,13 @@ html {
 	margin-left: 15%;
 	padding: 0;
 	text-align: justify;
-	background: #EADEB8; 
+	background: #FADE8F; 
 }
 
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #8E3200; 
+	color: #4A2115; 
 	background: #EADEB8; 
 	margin: 0; 
 	padding: 0;
@@ -23,7 +23,7 @@ h2 {
 	font: bold normal 1.4m georgia, sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
-	color: #6c584c;
+	color: #993C19;
 	text-align: center;
 }
 
@@ -31,7 +31,7 @@ h3 {
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #6c584c;
+	color: #993C19;
 	text-align: center;
 }
 
@@ -39,37 +39,37 @@ h4 {
 	font: italic normal 1.2em georgia, sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0; 
-	color: #6c584c;
+	color: #993C19;
 	text-align: center;
 }
 
 a:link {
 	font-weight: bold;
 	text-decoration: none;
-	color: #A09F57;
+	color: #124738;
 }
 
 a:visited {
 	font-weight: bold;
 	text-decoration: none;
-	color: #A09F57;
+	color: #124738;
 }
 
 a:hover, a:focus, a:active {
 	text-decoration: none;
-	color: #C56824;
-	background: #CFB784;
+	color: #499F70;
+	background: #FBDA93;
 }
 
 abbr {
 	border-bottom: none;
-	text-decoration: #CFB784 dotted underline;
-	color: #8E3200;
+	text-decoration: #796242 dotted underline;
+	color: #796242;
 	text-weight: bold;
 }
 
 def {
-	color: #A64B2A;
+	color: #4A2115;
 }
 
 header {
