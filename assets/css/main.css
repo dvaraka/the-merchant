@@ -108,4 +108,10 @@ img {
 		margin-right: 7.5%;
 		margin-left: 7.5%;
 	}
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
 }
