@@ -1,8 +1,8 @@
 <head>
-  <title>Quotes</title>
+  <title>Proverbs and Sayings from Distant Lands</title>
 </head>
 
-# Quotes  
+# Proverbs and Sayings from Distant Lands  
 1. "Its supposed to be basic but its not being basic" - Seneja W
 2. "..." - Kiefer Y
 3. "stawp" - Kiefer Y
