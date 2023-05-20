@@ -57,12 +57,11 @@ a:visited {
 a:hover, a:focus, a:active {
 	text-decoration: none;
 	color: #499F70;
-	background: #EADEB8;
+	text-decoration: #499F70 dotted underline;
 }
 
 abbr {
 	border-bottom: none;
-	text-decoration: #796242 dotted underline;
 	color: #796242;
 	text-weight: bold;
 }
