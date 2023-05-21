@@ -4,7 +4,7 @@
 
 # Year 9
 ### [Mathematics](/the-merchant/notes/year9/mathematics/mathematics.html)
-### [Science]()
+### [Science](/the-merchant/notes/year9/science/science.html)
 ### [HASS](/the-merchant/notes/year9/hass/hass.html)
 ### [English](/the-merchant/notes/year9/english/english.html)
 ### [French](/the-merchant/notes/year9/french/french.html)
