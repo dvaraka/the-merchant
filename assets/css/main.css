@@ -42,14 +42,14 @@ h4 {
 	text-align: center;
 }
 
-a:hover {
-	background-color: #16412c;
-	color: #FADE8F;
-}
-
 a {
 	color: #16412c;
-	transition: color .3s ease-in-out, #FADE8F .3s ease-in-out;
+	background-color: #fcecc0;
+}
+
+a:hover {
+	color: #16412c;
+	background-color: #f8d268;
 }
 
 abbr {
