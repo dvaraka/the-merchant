@@ -49,7 +49,6 @@ a:hover {
 
 a {
 	color: #993C19;
-	text-decoration: none;
 	transition: color .3s ease-in-out, #FADE8F .3s ease-in-out;
 }
 
