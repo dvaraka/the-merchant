@@ -6,3 +6,4 @@
 
 ## Myanmar Case Study
 ### [9.1 Overview of Myanmar](/the-merchant/notes/year9/hass/politics/myanmar-case-study/overview.html)
+### [9.2 Myanmar's Transition to Democracy](/the-merchant/notes/year9/hass/politics/myanmar-case-study/transition-to-democracy.html)
