@@ -5,6 +5,7 @@
 # 9.2 Myanmar's Transition to Democracy
 
 ## 1. Myanmar's Transition to Democracy
+
 | Question | Answer |
 | ----------- | ----------- |
 | Why were the 2012 Burmese By-elections significant in the history of Myanmar? | Whilst the total number of seats (45) was not enough to change the balance of power, it was a huge step forward from being completely under a military dictatorship. Burmese voters U Aung Sangh and Daw Seh Mawe said that this election would lead to more freedom, a better economy, and higher rates of education, which are all important factors. |
