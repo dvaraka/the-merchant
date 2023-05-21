@@ -43,12 +43,12 @@ h4 {
 }
 
 a:hover {
-	background-color: #993C19;
+	background-color: #16412c;
 	color: #FADE8F;
 }
 
 a {
-	color: #993C19;
+	color: #16412c;
 	transition: color .3s ease-in-out, #FADE8F .3s ease-in-out;
 }
 
