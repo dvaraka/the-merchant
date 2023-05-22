@@ -2,26 +2,36 @@
   <title>Year 9 English</title>
 </head>
 
-# The Merchant of Venice  
-### Act One  
-*In Act 1, Scene 1, Antonio is presented in a positive way. List his positive attributes.*  
-> In Act 1, Scene 1, Antonio is presented to be a kind and helpful person who is very loyal to Bassanio. He is portrayed as being selfless in his deeds and allows Bassanio to take more money despite him not paying him back quickly.  
+# The Merchant of Venice
+## Characters in the Play
+![Characters in the Play](https://github.com/harzavad/the-merchant/assets/133340321/b58dd68b-0232-45ae-90e3-37897e7ec469)
 
-*Bassanio is Antonio's good friend. How would you describe him so far? Explain why with examples from the scene.*  
-> Bassanio is portrayed as a good-natured yet irresponsible young man. He has gotten himself into debt by living beyond his means, and hopes to get out of said debt by marrying a wealthy noblewoman. This is supported in the play when Bassanio says  
->> In my school-days, when I had lost one shaft,  
->> I shot his fellow of the self-same flight  
->> The self-same way, with more advised watch  
->> To find the other forth; and by adventuring both  
->> I oft found both. I urge this childhood proof  
->> Because what follows is pure innocence.  
->> I owe you much, and, like a wilful youth,  
->> That which I owe is lost. But if you please  
->> To shoot another arrow that self way  
->> Which you did shoot the first, I do not doubt,  
->> As I will watch the aim, or to find both,  
->> Or bring your latter hazard back again,  
->> And thankfully rest debtor for the first.  
+## 1.0 - Act 1
+### 1.1 - Scene 1
+#### Summary
+- Part 1
+  - Street in Venice
+  - Antonio laments to Solanio and Salerio
+  - Salerio/Solanio try to find the root of the issue
+   - Conclude it is either due to his ship's safety at sea, love, or "sad because he is not merry"
+- Part 2
+  - Bassanio (close friend of Antonio) arrives with Lorenzo and Gratiano
+  - Solanio and Salerio leave
+- Part 3
+  - Lorenzo and Gratiano leave after telling Bassanio that they would see each other before dinner
+  - Gratiano notes that Antonio looks unwell
+  - Antonio responds saying that on the 'stage' of the world his role is to be 'sad'
+- Part 4
+  - Bassanio apologises for Gratiano's insensitivity
+  - Relates to Antonio his love for Portia
+   - Asks for money to court her
 
-*In Act 1 Scene 2, the audience meets Portia and her maid, Nerissa. Do you think they have a friendship rather than an employer-employee relationship? Explain why/why not including examples from the play.*  
-> Nerissa, Portia's lady in waiting, is portrayed as a loyal, trustworthy friend throughout the play. When the audience first sees Nerissa in Scene 2, she is helping Portia categorize all of her suitors to analyze their good qualities, if any. She is also the one who reminds Portia of Bassanio, the one, in her mind, most suited for marrying her mistress.  
+#### Quotes
+“In sooth I know not why I am sad” - Antonio, line 1  
+> Implies that the cause of his melancholy is not known or he does not wish to disclose it.  
+
+"I hold the world but as the world, Gratiano—  
+A stage, where every man must play a part;  
+And mine a sad one." - Antonio, line 78-80  
+> Antonio speaks of his melancholy to Gratiano, waving it off like the purpose of his existence.  
+
