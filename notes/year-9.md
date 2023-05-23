@@ -12,3 +12,4 @@
 ---
 ## Other
 ### [Year 10 Subjects](/the-merchant/notes/year9/other/yr10-subject-selections.html)
+### [ATAR](/the-merchant/notes/year9/other/atar-scaling.html)
