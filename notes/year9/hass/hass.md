@@ -3,4 +3,4 @@
 </head>
 
 # Humanities and Social Sciences  
-[Politics](/the-merchant/notes/year9/hass/politics/politics.html)  
+### [Politics](/the-merchant/notes/year9/hass/politics/politics.html)  
