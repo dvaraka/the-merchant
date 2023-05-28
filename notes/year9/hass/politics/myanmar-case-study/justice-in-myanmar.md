@@ -1,5 +1,5 @@
 <head>
-  <title>Year 9 HASS: Politics </head>
+  <title>Year 9 HASS: Politics </title>
 </head>
 
 # 9.4 - Justice in Myanmar: Media Censorship
