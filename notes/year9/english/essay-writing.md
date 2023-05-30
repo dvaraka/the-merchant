@@ -1,6 +1,6 @@
----
-title: Essay Writing
----
+<head>
+  <title>Essay Writing</title>
+</head>
 
 # HOW TO WRITE AN ESSAY 101
 
@@ -21,14 +21,18 @@ P4 – ethics - anecdote
 #### 1. General statement - Hook
   - Use hooks, quotes
   - If you don't have a hook, just a general philosophical thought or question will suffice
+
 #### 2. Aim - rephrase the question
   - Note that in some Lit exams, you don't get a question and instead have to write your own. This mainly has to do with older years (year 10-12)
+
 #### 3. Significance
   - Why is this question important?
   - Is it interesting?
+
 #### 4. Thesis Statment
   - This is the argument and evidence proposed
   - How will you answer the question?
+
 #### 5. Structure
   - Signposting
   - In analytical essays (essays which analyse a text), Structure and Theses are often done simultaneously
