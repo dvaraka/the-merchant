@@ -336,3 +336,4 @@
 331. “You think Florida would decide about anything?” - Brendan D
 332. “Look it’s me” - Donal T, “Yuck” - Edwin T (Donal’s brother)
 333. “I don’t know how to draw abs…” - Mihindee W
+334. "I know he's a dictator but you shouldn't vandalise his face" - Mr Paranchody
