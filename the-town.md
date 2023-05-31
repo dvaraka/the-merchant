@@ -18,6 +18,8 @@
 
 ### They all live within the town, and have very interesting houses.  
 
+### Update: My good friend the Wanderer joins us! He lives [here](https://rewind789.github.io/wanderer-archive/), ~in his lopsided house~
+
 ### *My Stall!*  
   
 ![My Stall](/the-merchant/assets/images/Screenshot 2023-05-14 163031.png)
