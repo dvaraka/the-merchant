@@ -20,7 +20,7 @@ For each subject:
 - 50% from WACE exams
 
 SCALED BONUSES (yay)
-> Imagine u do French, Math Methods, and Math Specialists. You would get 10% from French, 10% from Methods, and 10% from Spec adde to your TEA. Therefore, using this thing called 'Maths', your max ATAR would now be out of 430, not 400. Why? Bc it's like that now
+> Imagine u do French, Math Methods, and Math Specialists. You would get 10% from French, 10% from Methods, and 10% from Spec added to your TEA. Therefore, your new A-T-A-R would be out of 430. I.e., each missed mark is worth less.
 
 ATAR is examined by SCSA.
 
