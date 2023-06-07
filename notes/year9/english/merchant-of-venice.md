@@ -176,3 +176,56 @@ And here choose I. Joy be the consequence!"* - Act III Scene ii
 
 Explains his choice of casket, sees past the appearances and relies on instinct and intellect.
 
+## 3.0 - Themes and Ideas in the Test
+
+### 3.1 - Brainstorm of Themes
+
+- Religion
+- Racism, specifically Antisemitism
+  - Prejudice
+  - Discrimination
+- Money
+  - Loan
+  - Usury
+- Justice and Mercy
+- Love
+  - Marriage
+  - Courtship
+  - Romance
+- Friendship
+- Class
+  - Status
+  - Privilege
+- Vengeance
+  - Revenge
+  - Grudges
+- Law
+- Gender Roles
+
+### 3.2 - Ideas and Notions from this Brainstorm
+
+#### 3.2.1 - Justice and Mercy
+
+The idea that mercy should override Justice.
+
+The idea that those who show mercy should be given mercy, and vice versa. Evidenced by how Shylock was severely punished for his injustice towards Antonio.
+
+#### 3.2.2 - Friendship and Love
+
+The idea that friendships are stronger than love. Evidenced by Bassanio's speech towards Antonio about his wife.
+
+#### 3.2.3 - Revenge and Vengeance
+
+The idea that revenge and vengeance is an innate human trait. Evidenced in Shylock's monoluge in Act 3.
+
+### 3.3 - Practice Paragraph
+
+In Shakespeare's *The Merchant of Venice*, themes of vengeance, revenge, and holding grudges are present. The text represents revenge as an innate human trait. Revenge in this context refers to the desire to inflict damage on someone or something that has wronged you in the past. This notion is shown through Shylock's monologue in Act 2, best illustrated when he says his famous monologue,  
+> *"If you prick us, do we not bleed?  
+> If you tickle us, do we not laugh?  
+> If you poison us, do we not die?  
+> And if you wrong us, shall we not revenge?"*
+
+>> Act 3, Scene 1, Lines 57 to 59
+
+The parallels drawn by Shakespeare in these lines showcase the natural reflexes of humanity, and Shylock includes the final line, *"If you wrong us, shall we not revenge?"* to justify his actions. This excerpt positions the audience to agree wih Shylock and feel sympathy towards him. This clearly demonstrates the effortless way Shakespeare represents the idea of revenge as being innately human.
