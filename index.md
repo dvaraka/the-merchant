@@ -6,6 +6,7 @@
   <p class="intro">Welcome, weary travellers from afar, to my humble abode of treasures and exotic eye-jewels galore. <br> Be at your most pleasant ease and freedom of time as eternal as the whirling Sun to peruse the extravagant items we have on sale and at the cheapest of prices, just for you, before you embark once more on your journey.</p>
   <p>My stall is currently within an establishment known as <a href="/the-merchant/the-town.html">The Town</a>, a luxurious oasis, which I like very much.</p>
   <p>Sometimes I write about my travails as a wandering merchant. You can visit them <a href="/the-merchant/ramblings.html">here</a>.</p>
+  <p>Oh, I also like learning languages. I'm currently trying to learn <a href="/the-merchant/notes/languages/kannada/kannada-home.html"></a></p>
   <hr class="divider_one">
   <h2 class="subtitles">Notes</h2>
   <h3 class="intro"><b><a href="https://harzavad.github.io/the-merchant/notes/year-9.html">Year 9</a></b></h3>
