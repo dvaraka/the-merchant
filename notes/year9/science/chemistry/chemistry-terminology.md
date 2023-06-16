@@ -63,7 +63,7 @@ __Molecule:__
   - Molecular Formula ⇒ C2H4O2
     - Molecular Formula is useful to know how many of each element there is.
   - Structural Formula ⇒ CH3COOH
-    - Structural Formula is useful to know how the elements are related.
+    - Structural Formula is useful to know how the elements are related. (Refer to R1)
 
 ## Bonding
 
@@ -73,3 +73,8 @@ __Covalent Bonding:__ A type of bonding that occurs between non-metals where the
 
 __Ionic Bonding:__ A type of bonding that occurs between metals and non-metals where they form ions and then their overall difference in charge attracts them to one another.
 
+## Resources
+
+### R1 - Structural Diagram of Ethanoic Acid / Acetic Acid
+
+![Acetic/Ethanoic Acid](https://github.com/harzavad/the-merchant/assets/133340321/30440cad-25bd-4b89-8bb3-e3842c55806c)
