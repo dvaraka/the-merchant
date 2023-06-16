@@ -4,6 +4,6 @@
 
 # Science
 
-[Physics: Compiled](/the-merchant/notes/year9/science/physics.md)
+[Physics: Compiled](/the-merchant/notes/year9/science/physics.html)
 
-[An extensive guide on Grade 9 Chemistry](/the-merchant/notes/year9/science/chemistry/chemistry-home.md)
+[An extensive guide on Grade 9 Chemistry](/the-merchant/notes/year9/science/chemistry/chemistry-home.html)
