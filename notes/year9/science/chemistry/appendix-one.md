@@ -33,4 +33,6 @@ Aluminium - Al³⁺
 Chromium - Cr³⁺  
 Iron(III) - Fe³⁺  
 
-###
+### List A - Negatively Charged Ions / Molecules
+
+Bromide - 
