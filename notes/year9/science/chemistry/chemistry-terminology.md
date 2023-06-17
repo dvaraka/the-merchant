@@ -39,24 +39,24 @@ __ELEMENT:__
 - Contain a specific number of protons
 - All carbon atoms have 6 protons, all atoms with 103 protons are lawrencium, etc.
 
-__Isotope:__
+__ISOTOPE:__
 
 - Contain a specific number of neutrons
 - Hydrogen-1 has 0 neutrons and 1 proton, Hydrogen-2 has 1 neutron and 1 proton, etc.
 
-__Ion:__
+__ION:__
 
 - Any atom where the number of protons is not equal to the number of electrons
 - Remember when notating, the charge is written as #+ or #-, not +# or -#. I.e., 3+ is the correct order.
 - To calculate this charge, we determine how many more electrons are needed for a full shell.
 
-__Compound:__
+__COMPOUND:__
 
 - 2 or more *different* elements combined
 - NaCl, H20, etc.
 - NOT O2, because there is only one element in total
 
-__Molecule:__
+__MOLECULE:__
 
 - Specific number of non-metal atoms bonded together in a specific ratio
 - Ethanoic Acid
