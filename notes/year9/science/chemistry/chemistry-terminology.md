@@ -50,6 +50,14 @@ __ION:__
 - Remember when notating, the charge is written as #+ or #-, not +# or -#. I.e., 3+ is the correct order.
 - To calculate this charge, we determine how many more electrons are needed for a full shell.
 
+__CATION:__
+
+- A positively charged ion
+
+__ANION:__
+
+- A negatively charged ion
+
 __COMPOUND:__
 
 - 2 or more *different* elements combined
