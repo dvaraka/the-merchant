@@ -22,4 +22,8 @@ Metals lose electrons to non-metals. The metal loses an electron (becoming a cat
 
 As such, the two atoms have opposite charges, forming an ionic bond.
 
-### Valency in Ionic Bonding
+# Appendix
+
+## Periodic Table of Elements with Metals/Metalloids/Nonmetals Labelled
+
+![Periodic Table of Elements with Metals/Metalloids/NonMetals labelled](/the-merchant/notes/year9/science/chemistry/periodic-table-metals-nonmetals.png)
