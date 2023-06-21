@@ -9,4 +9,4 @@ Click this: https://yuki-private-site.notion.site/yuki-private-site/2023-Dashboa
 Wanna visit the stall?
 Click this: https://harzavad.github.io/the-merchant/
 
-ಥ_ಥ
+(●ˇ∀ˇ●)
