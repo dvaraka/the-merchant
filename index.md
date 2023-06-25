@@ -15,5 +15,4 @@
   <hr class="divider_one">
   <h2>Articles</h2>
   <h3 class="intro"><b><a href="https://harzavad.github.io/the-merchant/ramblings/articles/on-quartz.html">On Quartz</a></b></h3>
-  <hr class="divider_one">
 </body>
