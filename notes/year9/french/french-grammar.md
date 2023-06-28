@@ -43,6 +43,3 @@ Used to say there isn't any more of something.
 E.g. :
 - Il n'y a plus des chips - There aren't any more chips
 - Elle n'a plus de livres - She doesn't have any more books
-
-## Passé Composé
-
