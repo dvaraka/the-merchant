@@ -15,6 +15,6 @@ This accident changed Phineas' personality from well-mannered to vulgar.
 The incident proved that brain function is localized.  
 
 Basically,  
-God: _U must die_  
-Phineas: _How about no_
+> God: _U must die_  
+> Phineas: _How about no_
 
