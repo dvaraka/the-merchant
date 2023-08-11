@@ -8,6 +8,7 @@
 ### [HASS](/the-merchant/notes/year9/hass/hass.html)
 ### [English](/the-merchant/notes/year9/english/english.html)
 ### [French](/the-merchant/notes/year9/french/french.html)
+### [Psychology](/the-merchant/notes/year9/psychology/psychology.html)
 
 ---
 ## Other
