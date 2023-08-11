@@ -5,6 +5,9 @@
   <h2>IMPORTANT</h2>
   <p>Hello. <br> I don't stay here often. This is a side stall, not the main store, which you can find <a href="https://yuki-private-site.notion.site/The-Warehouse-2023-1ae90b0e39104f71b081a40cba9f4aaf">here</a>. As such, this place isn't as... <i>well-supplied</i> as my main store. If you can't find what you're looking for here, please head the the main store. Trust me, it's wayy better. <br> Maybe one day, when enough people know of my small stall here in The Town, I might stock up this place. (Highly unlikely) <br> <h6>also the notion page is better from an aesthetic point of view</h6></p>
   <hr class="divider_one">
+  <h2>UPDATES</h2>
+  <p>11/08/2023 - Added Psychology Section</p>
+  <hr class="divider_one">
   <h2>Welcome.</h2>
   <p><i>[An influenced excerpt of a typical roaming merchant, taken from the works of <abbr>Donal Tony</abbr>, abridged by the scribe <abbr>Ethan Trinh</abbr>]</i></p>
   <p class="intro">Welcome, weary travellers from afar, to my humble abode of treasures and exotic eye-jewels galore. <br> Be at your most pleasant ease and freedom of time as eternal as the whirling Sun to peruse the extravagant items we have on sale and at the cheapest of prices, just for you, before you embark once more on your journey.</p>
