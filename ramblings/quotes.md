@@ -340,3 +340,5 @@
 335. "Anything round and from Italy is a pizza" - Kiefer Y
 336. "Lets add some hashtags" - Antonina L, referring to sharps
 337. "And if thee shall tear our holy boundings asunder, than was hast mine thus bringing not of rain, but of silt and ire"
+338. "Because I feel like being racist today" - Seneja W
+339. "BRING YOUR AXE PARMIS" - Donal T
