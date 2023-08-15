@@ -103,3 +103,12 @@
 - aliens/robots without empathy and emotions
 - humans are vulnerable, susceptible, naive
 - sci-fi changes over time based on society's values
+
+## Back To The Future
+
+- Time Travel
+- Generic Mad Scientists
+- Protagonists
+  - Not 'save the world', more like 'saves himself and by extension his close relatives'
+- CGI
+- Lab Coats
