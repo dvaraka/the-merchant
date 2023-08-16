@@ -104,7 +104,7 @@
 - humans are vulnerable, susceptible, naive
 - sci-fi changes over time based on society's values
 
-## Back To The Future
+## [Back To The Future](/the-merchant/notes/year9/english/sci-fi/back-to-the-future.html)
 
 - Time Travel
 - Generic Mad Scientists
@@ -116,4 +116,3 @@
 ## Time Machine
 
 - Time Travel
-- 
