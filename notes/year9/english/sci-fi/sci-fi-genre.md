@@ -113,6 +113,4 @@
 - CGI
 - Lab Coats
 
-## Time Machine
-
-- Time Travel
+## [Ray Bradbury Text Excerpt Notes](/the-merchant/notes/year9/english/sci-fi/there-will-be-soft-rains.html)
