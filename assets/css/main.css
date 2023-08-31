@@ -48,7 +48,6 @@ a {
 
 a:hover {
 	color: #078080;
-	background-color: #f45d48;
 }
 
 abbr {
@@ -75,7 +74,7 @@ footer a:link, footer a:visited {
 }
 
 h1 {
-	font: bold normal 1.2em monospace;
+	font: bold normal 2em monospace;
 	text-align: center;
 }
 
