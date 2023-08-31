@@ -3,13 +3,13 @@ html {
 	margin-left: 15%;
 	padding: 0;
 	text-align: left;
-	background: #FADE8F; 
+	background: #f8f5f2; 
 }
 
 body { 
-	font: 75% georgia, sans-serif;
+	font: 75% monospace;
 	line-height: 1.88889;
-	color: #4A2115; 
+	color: #232323; 
 	margin: 0; 
 	padding: 0;
 }
@@ -19,45 +19,45 @@ p {
 }
 
 h2 {
-	font: bold normal 1.4m georgia, sans-serif;
+	font: bold normal 1.4m monospace;
 	letter-spacing: 1px;
 	margin-bottom: 0;
-	color: #993C19;
-	text-align: center;
+	color: #078080;
+	text-align: left;
 }
 
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em monospace;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #993C19;
-	text-align: center;
+	color: #078080;
+	text-align: left;
 }
 
 h4 { 
-	font: italic normal 1.2em georgia, sans-serif;
+	font: italic normal 1.2em monospace;
 	letter-spacing: 1px;
 	margin-bottom: 0; 
-	color: #993C19;
-	text-align: justify;
+	color: #078080;
+	text-align: left;
 }
 
 a {
-	color: #16412c;
+	color: #f45d48;
 }
 
 a:hover {
-	color: #16412c;
-	background-color: #f8d268;
+	color: #078080;
+	background-color: #f45d48;
 }
 
 abbr {
 	border-bottom: none;
-	color: #796242;
+	color: #232323;
 }
 
 def {
-	color: #4A2115;
+	color: #232323;
 }
 
 header {
@@ -75,7 +75,7 @@ footer a:link, footer a:visited {
 }
 
 h1 {
-	font-family: 'Times';
+	font: bold normal 1.2em monospace;
 	text-align: center;
 }
 
