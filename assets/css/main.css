@@ -1,6 +1,7 @@
 html {
 	margin-right: 15%;
 	margin-left: 15%;
+	max-width: 700px;
 	padding: 0;
 	text-align: left;
 	background: #f8f5f2; 
@@ -11,7 +12,7 @@ body {
 	line-height: 1.88889;
 	color: #232323; 
 	margin: 0; 
-	max-width: 700px;
+	padding: 0;
 }
 
 p {
