@@ -89,7 +89,13 @@ img {
 	margin-right: auto;
 	width: 50%;
 }
-	
+
+th, td {
+	border-bottom: 1px solid #ddd;
+	padding: 15px;
+	text-align: left;
+}
+
 
 @media screen and (max-width: 600px) {
 	html {
