@@ -7,3 +7,5 @@
 ## [Phys](/the-merchant/notes/year9/science/physics.html)
 
 ## [Chem](/the-merchant/notes/year9/science/chemistry/chemistry-home.html)
+
+## [Ecology](/the-merchant/notes/year9/science/ecology.html)
