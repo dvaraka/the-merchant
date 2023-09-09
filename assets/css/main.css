@@ -8,7 +8,7 @@ html {
 }
 
 body { 
-	font: 100% monospace;
+	font: 75% monospace;
 	line-height: 1.88889;
 	color: #232323; 
 	margin: 0; 
@@ -20,7 +20,7 @@ p {
 }
 
 h2 {
-	font: bold normal 1.6m monospace;
+	font: bold normal 1.4m monospace;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: #078080;
@@ -28,7 +28,7 @@ h2 {
 }
 
 h3 { 
-	font: italic normal 1.6em monospace;
+	font: italic normal 1.4em monospace;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #078080;
@@ -36,7 +36,7 @@ h3 {
 }
 
 h4 { 
-	font: italic normal 1.5em monospace;
+	font: italic normal 1.2em monospace;
 	letter-spacing: 1px;
 	margin-bottom: 0; 
 	color: #078080;
@@ -75,7 +75,7 @@ footer a:link, footer a:visited {
 }
 
 h1 {
-	font: bold normal 4em monospace;
+	font: bold normal 2em monospace;
 	text-align: center;
 }
 
@@ -89,13 +89,7 @@ img {
 	margin-right: auto;
 	width: 50%;
 }
-
-th, td {
-	border-bottom: 1px solid #ddd;
-	padding: 15px;
-	text-align: left;
-}
-
+	
 
 @media screen and (max-width: 600px) {
 	html {
